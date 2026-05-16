@@ -1,2 +1,2 @@
 # casual-trail
-something funny
+something fun
